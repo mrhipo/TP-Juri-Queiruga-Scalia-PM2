@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-Juri-Queiruga-Scalia", "TP-Juri-Queiruga-Scalia.csproj", "{475AA872-CA47-5802-54F8-7B0E11393E0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-Juri-Queiruga-Scalia.Editor", "TP-Juri-Queiruga-Scalia.Editor.csproj", "{CCEDDAD6-E44B-6B2E-63D1-B2330E578970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475AA872-CA47-5802-54F8-7B0E11393E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475AA872-CA47-5802-54F8-7B0E11393E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475AA872-CA47-5802-54F8-7B0E11393E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475AA872-CA47-5802-54F8-7B0E11393E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEDDAD6-E44B-6B2E-63D1-B2330E578970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEDDAD6-E44B-6B2E-63D1-B2330E578970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEDDAD6-E44B-6B2E-63D1-B2330E578970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEDDAD6-E44B-6B2E-63D1-B2330E578970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
